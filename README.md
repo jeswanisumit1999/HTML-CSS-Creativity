@@ -4,13 +4,12 @@
 
 !["Screen Shot"](./ScreenShot.JPG)
 
-
 ## Live Link
-[https://sumitjeswani-project14.netlify.app/](https://sumitjeswani-project14.netlify.app/ "Developer Landingpage")
+[https://sumitjeswani-project14.netlify.app/](https://sumitjeswani-project14.netlify.app/ "CREATIVITY")
 
 ## Learnings
 - Replicating Webpage from image
-- More handson on Postions
+- More handson on Positions
 - Making webpage responsive 
 
 ![](https://img.shields.io/badge/-HTML%5CCSS-green)
